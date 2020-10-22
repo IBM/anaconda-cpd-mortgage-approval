@@ -1,2 +1,3 @@
 # anaconda-cpd-mortgage-approval
-Demo usage of custom anaconda channel inside CPD WS project
+Demo usage Trusted AI assets through custom anaconda channel inside CPD WS project.
+
